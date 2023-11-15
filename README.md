@@ -32,6 +32,7 @@ The following results were obtained from running the code snippets:
 
 ## Usage
 
-To run the code, simply copy the contents of the file into your JavaScript or Python environment and execute it. The code will output the 50th Fibonacci number and the time taken to compute it for both the recursive and memoized versions.
+To run the code, simply copy the contents of the file into your JavaScript or Python environment and execute it. 
+The code will output the 40th Fibonacci number and the time taken to compute it for both the recursive and memoized versions.
 
 
