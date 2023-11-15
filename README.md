@@ -23,11 +23,11 @@ The following results were obtained from running the code snippets:
 
 **JavaScript Execution Times**:
 - Recursive Fibonacci of 40: 1.492 sec
-- Memoized Fibonacci: 0.245 ms
+- Memoized Fibonacci of 40: 0.245 ms
 
 **Python Execution Times**:
-- Recursive Fibonacci: 45.542296 sec
-- Memoized Fibonacci: 0.043 ms
+- Recursive Fibonacci of 40: 45.542296 sec
+- Memoized Fibonacci of 40: 0.043 ms
 
 
 ## Usage
