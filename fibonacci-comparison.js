@@ -1,6 +1,6 @@
 console.clear();
 
-const number = 25;
+const number = 40;
 
 /* Fibonacci recurse */
 const fibonacci = function fib(n) {
